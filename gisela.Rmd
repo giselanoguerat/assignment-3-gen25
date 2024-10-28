@@ -8,4 +8,9 @@ output: html_document
 
 - I am a Geologist from Paraguay.
 - I am doing a MS in Geological Sciences.
-- I speak Spanish, English, and Portuguese.
+- I speak Spanish, English and Portuguese.
+
+library(yaml)
+
+
+
