@@ -1,0 +1,11 @@
+---
+title: "Gisela Estefanía Noguera Toffoletti"
+output: html_document
+---
+
+### Background:  
+<br>
+
+- I am a Geologist from Paraguay.
+- I am doing a MS in Geological Sciences.
+- I speak Spanish, English, and Portuguese.

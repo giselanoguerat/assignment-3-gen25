@@ -1,0 +1,11 @@
+---
+title: "Geographic and Economic Overview of Mercosur Countries, Paraguay."
+Student: "Gisela E. Noguera Toffoletti - Github: giselanoguerat"
+output: html_document
+
+---
+<br>
+<br>
+
+```{r, echo=FALSE, out.width='50%', fig.cap="Fig 1. Location of Paraguay in South America"}
+knitr::include_graphics("C:/Users/gisel/github/assignment-3-gen25/localizacion-de-paraguay-sudamerica.png")
