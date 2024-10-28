@@ -10,7 +10,6 @@ output: html_document
 - I am doing a MS in Geological Sciences.
 - I speak Spanish, English and Portuguese.
 
-library(yaml)
 
 
 
